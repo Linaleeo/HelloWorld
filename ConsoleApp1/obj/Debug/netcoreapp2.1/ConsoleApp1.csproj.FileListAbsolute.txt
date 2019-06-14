@@ -1,0 +1,10 @@
+C:\Academy\HelloWorldGit\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\Academy\HelloWorldGit\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\Academy\HelloWorldGit\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Academy\HelloWorldGit\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Academy\HelloWorldGit\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Academy\HelloWorldGit\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Academy\HelloWorldGit\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Academy\HelloWorldGit\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\Academy\HelloWorldGit\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Academy\HelloWorldGit\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
